@@ -1,10 +1,290 @@
 [
    
     {
+		"name": "AEST 85",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON8.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON8.png",
+		"collections": "Aesthetic",
+		"downloadable": "true"
+    },
+	{
+		"name": "AEST 86",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON5.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON5.png",
+		"collections": "Aesthetic",
+		"downloadable": "true"
+    },
+	{
+		"name": "AEST 87",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON20.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON20.png",
+		"collections": "Aesthetic",
+		"downloadable": "true"
+    },
+	{
+		"name": "AEST 88",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON14.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON14.png",
+		"collections": "Aesthetic",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 89",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/20220101_161254_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/20220101_161254_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 90",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221029_232548_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221029_232548_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 91",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221029_232909_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221029_232909_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 92",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_160932_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_160932_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 93",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_161112_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_161112_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 94",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_161219_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_161219_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Amo 95",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_162519_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20221102_162519_0000.png",
+		"collections": "Amoled",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 96",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20220716_153129_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AMOLED/png_20220716_153129_0000.png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 97",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/20221121_232323_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/20221121_232323_0000.png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 98",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(11).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(11).png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 99",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(12).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/BLACK%20BEAUTY/Untitled%20design%20(12).png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 100",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(13).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(13).png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 101",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(21).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(21).png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 102",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(22).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(22).png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 103",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/png_20221122_014247_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/png_20221122_014247_0000.png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "Blbt 103",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/png_20221122_211616_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/BLACK%20BEAUTY/png_20221122_211616_0000.png",
+		"collections": "Black Beauty",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 104",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/PIXEL%20SHAPES/png_20221204_211518_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/PIXEL%20SHAPES/png_20221204_211518_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 105",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-15311729576_20211225_133940_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-15311729576_20211225_133940_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 106",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-15439588062_20211228_081127_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-15439588062_20211228_081127_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 107",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-16469725042_20220113_085830_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-16469725042_20220113_085830_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 108",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20211225_231203_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20211225_231203_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 109",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220101_000151_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220101_000151_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 110",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220702_223534_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220702_223534_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 111",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220703_153920_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220703_153920_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 112",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220703_153940_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20220703_153940_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 113",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20221204_211611_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20221204_211611_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 114",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20221206_223410_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/20221206_223410_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 115",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/62a05618099b6b4a474e0179-27.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/62a05618099b6b4a474e0179-27.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 116",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/IMG_20220608_134046.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/IMG_20220608_134046.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 117",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(53).png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(53).png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
+		"name": "PS 118",
+		"author": "Wigebox",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-14770155909_20211217_070628_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-14770155909_20211217_070628_0000.png",
+		"collections": "Pixel Shapes",
+		"downloadable": "true"
+    },
+	{
 		"name": "Abs 1",
 		"author": "Wigebox",
-	        "url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/0001-15327261410_20211225_212255_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/0001-15327261410_20211225_212255_0000.png",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
 		"collections": "Absstact",
 		"downloadable": "true"
     },
@@ -35,8 +315,8 @@
 	{
 		"name": "Abs 5",
 		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/0001-15327261410_20211225_212255_0000.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/0001-15327261410_20211225_212255_0000.png",
 		"collections": "Absstact",
 		"downloadable": "true"
     },
