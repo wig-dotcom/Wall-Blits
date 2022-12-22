@@ -1,6 +1,72 @@
 [
    
     {
+		"name": "Cls 34",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221206_223003_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221206_223003_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 34",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221206_225914_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221206_223003_0000.png",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Cls 35",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232357_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232357_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 36",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232710_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232710_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Cls 37",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232710_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_234616_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 38",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_093135_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_093135_0000.jpg",
+		"collections": "Flowers",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "Cls 39",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_112926_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_112926_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 40",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_112926_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_131453_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 41",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_131453_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_131453_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
 		"name": "AEST 85",
 		"author": "Wigebox",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/AESTHETIC/BON8.png",
