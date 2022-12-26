@@ -1,5 +1,57 @@
 [
-   {
+    {
+		"name": "Ml 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221109_004027_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221109_004027_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221109_005107_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221109_005107_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232357_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221220_232357_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221221_234506_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221221_234506_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221221_234914_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221221_234914_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221222_001410_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221222_001410_0000.jpg",
+		"collections": "Minimalist",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "Ml 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221222_001830_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20221222_001830_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
 		"name": "Abs 6",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/20221218_211812_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/20221218_211812_0000.jpg",
