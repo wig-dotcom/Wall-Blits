@@ -1,5 +1,56 @@
 [
-   
+   {
+		"name": "MU 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/1_20211213_232905_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/1_20211213_232905_0000.jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		"name": "MU 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/62a05618099b6b4a474e0179.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/62a05618099b6b4a474e0179.jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MU 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(25).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(25).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		"name": "MU 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(49).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(49).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "MU 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221202_151929_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221202_151929_0000.jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		"name": "MU 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221221_235831_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221221_235831_0000.jpg",
+		"collections": "Material U",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "MU 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221222_000356_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20221222_000356_0000.jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
     {
 		"name": "Ml 3",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20221221_235625_0000.png",
