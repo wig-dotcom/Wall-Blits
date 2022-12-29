@@ -1,5 +1,43 @@
 [
-   {
+  
+    {
+		"name": "Ntr 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/20211215_003942_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/20211215_003942_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ntr 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220626_132117_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220626_132117_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ntr 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220626_134153_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220626_134153_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ntr 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220704_154521_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220704_154521_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ntr 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220704_160223_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/NATURE/png_20220704_160223_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
 		"name": "MU 1",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/1_20211213_232905_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/1_20211213_232905_0000.jpg",
