@@ -1,5 +1,33 @@
 [
-   
+   {
+		"name": "Cls 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-1.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-1.jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-2.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-2.jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Cls 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-5.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/63a88b4f0cf3a3bbd8f9a9f5-5.jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+    },
+    {
+		"name": "Cls 8",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/Untitled%20design%20(37).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/Untitled%20design%20(37).jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+    }, 
     {
 		"name": "Ml 8",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/63a88b4f0cf3a3bbd8f9a9f5-3.png",
