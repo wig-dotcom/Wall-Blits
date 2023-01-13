@@ -1,5 +1,27 @@
 [
-  {
+    {
+		"name": "Gradi 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(17).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(17).jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
+		"name": "Gradi 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(20).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(20).jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Gradi 8",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(21).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(21).jpg",
+		"collections": "Gradient",
+		"downloadable": "True"
+    },
+    {
 		"name": "Ptrn 1",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PATERNS/Untitled%20design%20(9).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PATERNS/Untitled%20design%20(9).jpg",
