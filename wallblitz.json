@@ -457,13 +457,6 @@
 		"downloadable": "True"
     },
     {
-		"name": "Abs 11",
-		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/png_20221221_132810_0000.png",
-		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/png_20221221_132810_0000.jpg",
-		"collections": "Abstract",
-		"downloadable": "True"
-    },
-    {
 		"name": "Cls 1",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/Untitled%20design%20(28).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/Untitled%20design%20(28).jpg",
@@ -850,14 +843,6 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-14770155909_20211217_070628_0000.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/0001-14770155909_20211217_070628_0000.png",
 		"collections": "Pixel Shapes",
-		"downloadable": "true"
-    },
-	{
-		"name": "Abs 1",
-		"author": "Wigebox",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/ABSTRACT/20220626_130256_0000.png",
-		"collections": "Abstract",
 		"downloadable": "true"
     },
 	{
