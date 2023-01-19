@@ -1,5 +1,49 @@
 [
-   {
+  {
+		"name": "PS 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(33).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(33).jpg",
+		"collections": "Pixel Shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 8",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(35).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(35).jpg",
+		"collections": "Pixel Shapes",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 9",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(41).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(41).jpg",
+		"collections": "Pixel Shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 10",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(42).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(42).jpg",
+		"collections": "Pixel Shapes",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 11",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(44).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(44).jpg",
+		"collections": "Pixel Shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 12",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230110_234613_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230110_234613_0000.jpg",
+		"collections": "Pixel Shapes",
+   		"downloadable": "True"
+    }, 
+    {
 		
                 "name": "BOP 5",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20230116_112525_0000.png",
