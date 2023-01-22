@@ -1,5 +1,71 @@
 [
-  {
+ {
+		"name": "Ml 13",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/Untitled%20design%20(29).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/Untitled%20design%20(29).jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 14",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230102_010720_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230102_010720_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 15",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230103_134455_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230103_134455_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 16",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230103_134917_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230103_134917_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 17",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230104_000203_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230104_000203_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 18",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_000138_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_000138_0000.jpg",
+		"collections": "Minimalist",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "Ml 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_001648_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_001648_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_095921_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_095921_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 21",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_100400_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230112_100400_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
 		"name": "PS 7",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(33).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/Untitled%20design%20(33).jpg",
