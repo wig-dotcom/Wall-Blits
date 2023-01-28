@@ -14,13 +14,11 @@
 		"downloadable": "True"
     },
     {
-		
-                "name": "Aest 9",
+	        "name": "Aest 9",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20221108_100641_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20221108_100641_0000.jpg",
 		"collections": "Aesthetic",
 		"downloadable": "True"
-
     }, 
     {
 		"name": "Aest 5",
@@ -36,8 +34,7 @@
 		"collections": "Aesthetic",
 		"downloadable": "True"
     },
-    {
-		
+    {	
                 "name": "Aest 7",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(28).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(28).jpg",
