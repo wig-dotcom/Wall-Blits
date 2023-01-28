@@ -1,5 +1,28 @@
 [
-  {
+   {
+		"name": "Aest 8",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(66).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(66).jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ntr 12",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/V1-MINIMAL-DESERT-HD.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/V1-MINIMAL-DESERT-HD.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Aest 9",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20221108_100641_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20221108_100641_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+
+    }, 
+    {
 		"name": "Aest 5",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(24).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled%20design%20(24).jpg",
