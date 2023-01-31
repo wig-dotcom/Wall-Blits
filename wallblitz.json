@@ -1,5 +1,31 @@
 [
-   {
+      },
+    {
+		"name": "Cls 12",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_213815_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_213815_0000.jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+                "downloadable": "True"
+    },
+    {
+		
+                "name": "Cls 13",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_214603_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_214603_0000.jpg",
+		"collections": "Color OS",
+                "downloadable": "True"
+   
+    },
+    {
+		"name": "Cls 14",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_214857_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_214857_0000.jpg",
+		"collections": "Color OS",
+		"downloadable": "True"
+    
+    },
+    {
 		"name": "Cls 9",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221226_084628_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221226_084628_0000.jpg",
