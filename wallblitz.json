@@ -1,4 +1,92 @@
 [
+   
+    {
+		"name": "AI 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(15).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(15).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(17).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(17).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AI 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(18).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(18).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(20).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(20).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AI 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(21).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(21).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(45).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(45).jpg",
+		"collections": "AI",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "AI 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(46).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(46).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 8",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(47).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(47).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 9",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(48).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(48).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 10",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(49).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(49).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 11",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(50).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(50).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 12",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(52).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(52).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
     {
 		"name": "Cls 12",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/png_20221228_213815_0000.png",
