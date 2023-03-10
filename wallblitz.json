@@ -1,5 +1,12 @@
 [
-     {
+    {
+		"name": "AI 28 ",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(26).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(26).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
 		"name": "AI 13 ",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(74).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(74).jpg",
