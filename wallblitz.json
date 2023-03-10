@@ -1,5 +1,114 @@
 [
-      {
+     {
+		"name": "AI 13 ",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(15).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(15).jpg",
+		"collections": "Amoled",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 14",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(17).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(17).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AI 15",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(18).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(18).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 16",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(101).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(101).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AI 17",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(52).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(52).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 18",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(62).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(62).jpg",
+		"collections": "AI",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "AI 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(66).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(66).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(80).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(80).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 21",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(81).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(81).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 22",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(87).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(87).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 23",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(92).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(92).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 24",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(99).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/Untitled%20design%20(99).jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 25",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_192924_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_192924_0000.jpg",
+		"collections": "AI",
+		"downloadable": "True"
+  
+    },
+    {
+		"name": "AI 26",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_193633_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_193633_0000.jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
+		"name": "AI 27",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_193912_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/GRADIENT/png_20230228_193912_0000.jpg",
+		"collections": "AI",
+		"downloadable": "True"
+    },
+    {
 		"name": "fls 51",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/20230130_224650_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/20230130_224650_0000.jpg",
