@@ -1,4 +1,48 @@
 [
+   {
+		"name": "AN 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(44).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled%20design%20(44).jpg",
+		"collections": "Android",
+		"downloadable": "True"
+    },
+    {
+		"name": "AN 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(1).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(1).jpg",
+		"collections": "Android",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AN 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(2).jpg",
+		"collections": "Android",
+		"downloadable": "True"
+    },
+    {
+		"name": "AN 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(3).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(3).jpg",
+		"collections": "Android",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "AN 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(5).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(5).jpg",
+		"collections": "Android",
+		"downloadable": "True"
+    },
+    {
+		"name": "AN 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(4).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Your%20paragraph%20text%20(4).jpg",
+		"collections": "Android",
+   		"downloadable": "True"
+    }, 
     {
 		"name": "Abs 18",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20221228_231022_0000.png",
