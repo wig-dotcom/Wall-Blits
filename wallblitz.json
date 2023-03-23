@@ -1,5 +1,71 @@
 [
-   {
+  {
+		"name": "Crc 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design%20(17).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design%20(17).jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		"name": "Crc 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_175843_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_175843_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Crc 21",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_180208_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_180208_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		"name": "Crc 22",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_183651_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221223_183651_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Crc 23",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221225_000731_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221225_000731_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		"name": "Crc 24",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221227_182443_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20221227_182443_0000.jpg",
+		"collections": "Chromecast",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "Crc 25",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230107_165235_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230107_165235_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		"name": "Crc 26",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230113_143836_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230113_143836_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
+		"name": "Crc 27",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230113_144402_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/png_20230113_144402_0000.jpg",
+		"collections": "Chromecast",
+		"downloadable": "True"
+    },
+    {
 		"name": "Ml 49",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230108_234335_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230108_234335_0000.jpg",
