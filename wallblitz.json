@@ -1,5 +1,57 @@
 [
-  {
+   {
+		"name": "WO 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_100545_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_100545_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "WO 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_111019_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_111019_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "WO 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_112411_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_112411_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "WO 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_115920_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_115920_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "WO 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_121721_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_121721_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "WO 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_122011_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_122011_0000.jpg",
+		"collections": "Pixel arts",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "WO 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_124434_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230326_124434_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
 		"name": "Crc 19",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design%20(17).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design%20(17).jpg",
