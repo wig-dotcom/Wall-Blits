@@ -1,5 +1,84 @@
 [
-  
+  {
+		"name": "Ml 51",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230319_072901_0000.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230319_072901_0000.png",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 52",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230404_000726_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230404_000726_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 53",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230404_094316_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/20230404_094316_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 54",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230110_231701_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230110_231701_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Ml 55",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230110_233659_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230110_233659_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 56",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230303_231737_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230303_231737_0000.jpg",
+		"collections": "Minimalist",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "Ml 57",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_071436_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_071436_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 58",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_081519_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_081519_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "Ml 59",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_082433_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_082433_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "MI 60",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_083001_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_083001_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
+    {
+		"name": "MI 61",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_083259_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MINIMALIST/png_20230404_083259_0000.jpg",
+		"collections": "Minimalist",
+		"downloadable": "True"
+    },
     {
 		"name": "AMO 12",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled%20design%20(12).png",
