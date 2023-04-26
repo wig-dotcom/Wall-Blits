@@ -1,6 +1,72 @@
 [
   
     {
+		"name": "PS 17",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221222_231018_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221222_231018_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": PS 18",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221223_000041_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221223_000041_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221223_180420_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221223_180420_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221222_231605_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221222_231605_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 21",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221228_221528_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221228_221528_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 22",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221230_125958_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221230_125958_0000.jpg",
+		"collections": "Pixel arts",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "PS 23",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221230_131233_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20221230_131233_0000.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 24",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230107_163332_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/png_20230107_163332_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 25",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_131453_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/png_20221221_131453_0000.jpg",
+		"collections": "Flowers",
+		"downloadable": "True"
+    },
+    {
 		"name": "fls 61",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/20221226_083407_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/20221226_083407_0000.jpg",
