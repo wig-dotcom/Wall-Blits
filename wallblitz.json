@@ -1,5 +1,49 @@
 [
-   {
+  {
+		"name": "Abs 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-3%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-3%20(2).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		"name": "Abs 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-4%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-4%20(2).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Abs 21",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-5%20(2).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/63b985daa13d75d475df99c5-5%20(2).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		"name": "Abs 22",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(51).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(51).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Abs 23",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(60).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(60).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
+		"name": "Abs 24",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(61).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/ABSTRACT/Untitled%20design%20(61).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
 		"name": "PS 17",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221222_231018_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/20221222_231018_0000.jpg",
