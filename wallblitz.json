@@ -1,5 +1,56 @@
 [
   {
+		"name": "Aest 14",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_191517_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_191517_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "Aest 15",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192355_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192355_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Aest 16",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192508_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192508_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "Aest 17",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192633_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192633_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
+		"name": "Aest 18",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192726_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192726_0000.jpg",
+		"collections": "Nature",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Aest 19",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192826_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192826_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+
+    }, 
+    {	        "name": "Aest 20",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192915_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230516_192915_0000.jpg",
+		"collections": "Aesthetic",
+		"downloadable": "True"
+    },
+    {
 		"name": "Feather 1",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U//png_20230513_230757_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/png_20230513_230757_0000.jpg",
