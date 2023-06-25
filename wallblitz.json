@@ -9,6 +9,7 @@
     {
 		"name": "quartz 2",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_212113_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_212113_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
     },
@@ -16,18 +17,21 @@
 		
                 "name": "quartz 3",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_095903_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_095903_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
     },
     {
 		"name": "quartz 4",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_113300_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_113300_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
     },
     {
 		"name": "quartz 5",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_115008_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_115008_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
     },
@@ -35,12 +39,14 @@
 		
                 "name": "quartz 6",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_121328_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_121328_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
 
     }, 
     {	        "name": "quartz 7",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_211720_0000.png",
+	        "thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_211720_0000.jpg",
 		"collections": "pixel 8",
 		"downloadable": "True"
     },
