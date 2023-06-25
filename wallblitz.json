@@ -1,5 +1,26 @@
 [
   {
+		"name": "quartz 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_212113_0000.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_114200_0000.png",
+		"collections": "pixel 8",
+		"downloadable": "True"
+    } 
+    {
+		"name": "quartz 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_113300_0000.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_113300_0000.png",
+		"collections": "pixel 8",
+		"downloadable": "True"
+    } 
+    {
+		"name": "quartz 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_095903_0000.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/png_20230622_095903_0000.png",
+		"collections": "pixel 8",
+		"downloadable": "True"
+    }
+    {
 		"name": "quartz 8",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled design 11 (2).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/Untitled design 11 (2).jpg",
