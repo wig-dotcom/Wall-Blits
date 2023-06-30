@@ -1,5 +1,42 @@
 [
-   {
+     {
+		"name": "PS 26",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_01.kurokawa.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_01.kurokawa.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 27",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_02_01_dark.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_02_01_dark.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 28",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03.kurokawa.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03.kurokawa.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		"name": "PS 29",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03_02_dark_alt.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03_02_dark_alt.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "PS 30",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03_19.sakura.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/PIXEL%20SHAPES/pizzel_xd_03_19.sakura.jpg",
+		"collections": "Pixel arts",
+		"downloadable": "True"
+    },
+    {
 		"name": "flo 4",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled design (15).png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled design (15).jpg",
