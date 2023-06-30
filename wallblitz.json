@@ -1,5 +1,34 @@
 [
-  {
+   {
+		"name": "flo 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled design (15).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL%20U/Untitled design (15).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		"name": "flo 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/Untitled design (17).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL U/Untitled design (17).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "flo 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/Untitled design (3).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL U/Untitled design (3).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
+		"name": "flo 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/FLOWERS/Untitled design (4).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/MATERIAL U/Untitled design (4).jpg",
+		"collections": "Material U",
+		"downloadable": "True"
+    },
+    {
 		"name": "quartz 3",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_212113_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AESTHETIC/20230622_212113_0000.jpg",
