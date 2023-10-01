@@ -1,5 +1,57 @@
 [
-  {
+ {
+		"name": "P8 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/20230704_163612_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/20230704_163612_0000.jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
+		"name": "P8 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (41).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (41).jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "P8 3",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (43).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (43).jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
+		"name": "P8 4",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (44).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (44).jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "P8 5",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (45).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/Untitled design (45).jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
+		"name": "P8 6",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/png_20230704_160516_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/png_20230704_160516_0000.jpg",
+		"collections": "PIXEL 8",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "P8 7",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/png_20230704_162401_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/AMOLED/png_20230704_162401_0000.jpg",
+		"collections": "PIXEL 8",
+		"downloadable": "True"
+    },
+    {
 		"name": "samsung creative",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/20230720_232523_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/COLOR%20OS/20230720_232523_0000.jpg",
