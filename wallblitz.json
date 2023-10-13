@@ -4112,7 +4112,7 @@
 		"collections": "Flowers",
 		"downloadable": "true"
     },
- {
+       {
 		"name": "Gradi 39",
 		"author": "Wigebox",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/GRADIENT/png_20220629_235329_0000.png",
@@ -4335,7 +4335,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blits/main/Walls/NATURE/png_20221022_144722_0000(1).png",
 		"collections": "Nature",
 		"downloadable": "true"
-    
+  {
 
     },
 ]
