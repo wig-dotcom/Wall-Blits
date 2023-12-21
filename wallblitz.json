@@ -1,5 +1,49 @@
 [
-   {
+  {
+		"name": "meatal 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(40).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(40).jpg",
+		"collections": "black beauty",
+		"downloadable": "True"
+    },
+    {
+		"name": "metal 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(48).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(48).jpg",
+		"collections": "black beauty",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "scrap 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(51).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/BLACK%20BEAUTY/Untitled%20design%20(51).jpg",
+		"collections": "black beauty",
+		"downloadable": "True"
+    },
+    {
+		"name": "scrap 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(52).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(52).jpg",
+		"collections": "black beauty",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "rust 1",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(53).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(53).jpg",
+		"collections": "black beauty",
+		"downloadable": "True"
+    },
+    {
+		"name": "rust 2",
+		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(62).png",
+		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(62).jpg",
+		"collections": "Abstract",
+		"downloadable": "True"
+    },
+    {
 		"name": "crc1",
 		"url": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design_20231121_223617_0000.png",
 		"thumbnail": "https://github.com/wig-dotcom/Wall-Blitz/raw/main/Walls/CHROMECAST/Untitled%20design_20231121_223617_0000.jpg",
