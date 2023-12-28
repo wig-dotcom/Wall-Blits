@@ -1,5 +1,56 @@
 [
  {
+		"name": "chroma",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Chroma.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Chroma.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    },
+    {
+		"name": "digitalis",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Digitalis.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Digitalis.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "echoes",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Echos.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Echos.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    },
+    {
+		"name": "magenta",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/GalaxyS4-1080x1920.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/GalaxyS4-1080x1920.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "hsts",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/HCTS%20-%20iPhone.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/HCTS%20-%20iPhone.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    },
+    {
+		"name": "hexad",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Hexad.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Hexad.jpg",
+		"collections": "pattern",
+   		"downloadable": "True"
+    }, 
+    {
+		
+                "name": "intermezzo",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Intermezzo.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/FLOWERS/Intermezzo.jpg",
+		"collections": "pattern",
+		"downloadable": "True"
+    }, {
 		"name": "steel 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(63).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/BLACK%20BEAUTY/Untitled%20design%20(63).jpg",
