@@ -1,5 +1,48 @@
 [
-   {
+  {
+		"name": "awesome 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%201.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "awesome 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%202.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "awesome 3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%203.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "awesome 4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/blob/main/Walls/ABSTRACT/Awesome%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%204.jpg",		
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "awesome 5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%205.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%205.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "awesome 6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%206.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/ABSTRACT/Awesome%206.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
 		"name": "purple kitten",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/Menu%20(30).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/Menu%20(30).jpg",
