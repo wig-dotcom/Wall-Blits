@@ -1,5 +1,70 @@
 [
   {
+		"name": "anime 1",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%201.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "anime 2",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%202.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "anime 3",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%203.jpg",
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "anime 4",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%204.jpg",		
+		"collections": "dope & swag",
+		"downloadable": "True"
+    },
+    {
+		"name": "anime 5",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%205.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%205.jpg",
+		"collections": "dope & swag",
+		"downloadable": "false"
+    },
+    {
+		"name": "anime 6",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%206.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%206.jpg",
+		"collections": "false",
+		"downloadable": "True"
+    },
+    {
+		"name": "anime 7",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%207.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%207.jpg",
+		"collections": "dope & swag",
+		"downloadable": "false"
+    },
+    {
+		"name": "anime 8",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%208.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%208.jpg",
+		"collections": "dope & swag",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "anime 9",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%209.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%209.jpg",
+		"collections": "dope & swag",
+		"downloadable": "false"
+    },
+    {
 		"name": "pix 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/awesome_20240512_175415_0000.png",
 		"collections": "android",
