@@ -1,5 +1,48 @@
 [
-  {
+ {
+		"name": "boys room blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/boys%20room%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/boys%20room%20blue.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "butter up",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/butter%20up.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/butter%20up.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "material blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20blue.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "material color",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20color.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20color.jpg",		
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "material dark",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/material%20dark.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "false"
+    },
+    {
+		"name": "pink plush",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pink%20plush.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pink%20plush.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
 		"name": "anime 1",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%201.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/AESTHETIC/anime%201.jpg",
