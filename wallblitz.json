@@ -1,5 +1,19 @@
 [
- {
+  {
+		"name": "pixel celebration",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pixel%20celebration%20dark.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pixel%20celebration%20dark.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    },
+    {
+		"name": "pixel celebration dark,
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pixel%20celebration.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/pixel%20celebration.jpg",
+		"collections": "pixel shapes",
+		"downloadable": "True"
+    }, 
+    {
 		"name": "boys room blue",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/boys%20room%20blue.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/PIXEL%20SHAPES/boys%20room%20blue.jpg",
