@@ -1,7 +1,7 @@
 [
   {
 		"name": "choco delight",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/choco%20delight.png",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.jpg",
 		"collections": "color os",
 		"downloadable": "True"
@@ -16,8 +16,8 @@
     {
 		
                 "name": "black coffee mocha",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.jpg",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/choco%20delight.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/choco%20delight.jpg",
 		"collections": "color os",
 		"downloadable": "True"
     },
