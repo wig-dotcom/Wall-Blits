@@ -1,5 +1,48 @@
 [
-  {
+ {
+		"name": "bloom garden",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/bloom%20garden.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/bloom%20garden.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "True"
+    },
+    {
+		"name": "corn poppies",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/corn%20poppies.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/corn%20poppies.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "field of blooms",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/field%20of%20blooms.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/field%20of%20blooms.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "True"
+    },
+    {
+		"name": "greenweeds",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/greenweeds.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/greenweeds.jpg",		
+		"collections": "MATERIAL U",
+		"downloadable": "True"
+    },
+    {
+		"name": "summerflora",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/summer%20flora.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/summer%20flora.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		"name": "wild carnation",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/wild%20carnatioin.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/wild%20carnatioin.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "True"
+    },
+    {
 		"name": "choco delight",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/main/Walls/COLOR%20OS/black%20coffee%20mocha.jpg",
