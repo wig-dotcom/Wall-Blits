@@ -1,5 +1,48 @@
 [
  {
+		"name": "arctic pixel",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/arctic%20pixel.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/arctic%20pixel.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		"name": "electric blue",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/elctric%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/elctric%20blue.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		
+                "name": "neon green",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/neon%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/neon%20green.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		"name": "pea yellow",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/pea%20yellow.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/pea%20yellow.jpg",		
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		"name": "slimy green",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/slimy%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/slimy%20green.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
+		"name": "yellow sunshine",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/yellow%20sunshine.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/yellow%20sunshine.jpg",
+		"collections": "MATERIAL U",
+		"downloadable": "false"
+    },
+    {
 		"name": "bloom garden",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/bloom%20garden.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/Wall-Blitz/refs/heads/main/Walls/MATERIAL%20U/bloom%20garden.jpg",
